@@ -22,7 +22,7 @@ Wi-Fi Sniffer for UPOD is an IoT-based Wi-Fi network scanner using the ESP8266 m
 
 - Arduino IDE or PlatformIO
 - ESP8266 libraries installed
-- UPOD system set up with a working REST API.
+- UPOD set up with a working REST API.
 
 ### Environment Setup
 
