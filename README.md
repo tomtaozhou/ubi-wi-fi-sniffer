@@ -46,7 +46,7 @@ Wi-Fi Sniffer for UPOD is an IoT-based Wi-Fi network scanner using the ESP8266 m
 
 ## Usage
 
-Once uploaded, the ESP8266 will scan for nearby Wi-Fi networks and upload the scan results to the UPOD system. The uploaded posts will contain the following details:
+Once uploaded, the ESP8266 will scan for nearby Wi-Fi networks and upload the scan results to the UPOD. The uploaded posts will contain the following details:
 
 - **Wi-Fi Scan Results**: List of detected Wi-Fi networks with SSID and signal strength.
 - **Device Count**: Estimated number of people in the house based on detected device count.
