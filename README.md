@@ -9,7 +9,7 @@ Wi-Fi Sniffer for UPOD is an IoT-based Wi-Fi network scanner using the ESP8266 m
 - **Wi-Fi Network Scanning**: Scans for nearby Wi-Fi networks and retrieves SSID and signal strength (RSSI).
 - **Device Categorization**: Categorizes devices into high signal and low signal strength groups.
 - **Presence Detection**: Estimates whether someone is at home based on the number of connected devices.
-- **Upload to UPOD**: Uploads Wi-Fi scan results (including device count and details) to the UPOD system.
+- **Upload to UPOD**: Uploads Wi-Fi scan results (including device count and details) to the UPOD.
 
 ## Installation
 
