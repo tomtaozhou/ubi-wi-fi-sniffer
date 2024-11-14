@@ -35,7 +35,7 @@ Wi-Fi Sniffer for UPOD is an IoT-based Wi-Fi network scanner using the ESP8266 m
 1. Open the code and update the following parameters:
    - `ssid`: Your Wi-Fi network name.
    - `password`: Your Wi-Fi password.
-   - `wordpressHost`: Your UPOD system URL (e.g., `https://yourupodsite.com`).
+   - `wordpressHost`: Your UPOD URL (e.g., `https://yourupodsite.com`).
    - `username`: The username for API access.
    - `app_password`: The application password for API authentication.
 
